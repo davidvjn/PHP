@@ -1,0 +1,20 @@
+table {
+    border: 2px solid blue;
+}
+
+th {
+    border: 2px solid green;
+    background-color: pink;
+    font-size: 1cm;
+}
+
+td {
+    border: 2px solid pink;
+    background-color: green;
+    font-size: 0.7cm;
+    text-align: center;
+}
+
+.red {
+    background-color: red;
+}
