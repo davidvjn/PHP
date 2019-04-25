@@ -1,0 +1,14 @@
+body {
+    background-color: orangered;
+}
+
+button {
+    background-color: rgb(247, 234, 64);
+}
+
+form {
+  background-color: black;
+  display: flex;
+  justify-content: center;
+  color: white;
+}
