@@ -21,7 +21,7 @@
 
     <form action="./controllers/connect_inst.php" method="POST">
       <label for="pseudo">Ton pseudo</label>
-      <input type="text" name="pseudo" placeholder="pseudo" required>
+      <input <type="text" name="pseudo" placeholder="pseudo" required>
       <label for="password">Ton mot de passe</label>
       <input type="password" name="password" placeholder="Ton mot de passe" required>
       
